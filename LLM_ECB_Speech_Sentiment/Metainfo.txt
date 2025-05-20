@@ -1,20 +1,17 @@
-Name of Quantlet: BitcoinTrading
+Name of Quantlet: LLM_ECB_Speech_Sentiment_Scoring
 
 Published in: Quantlet
 
-Description: 'A long-only bitcoin trading algoritm based on LSTM predictions'
+Description: 'LLaMA based ECB speeches sentiment scoring'
 
-Keywords: LSTM, Bitcoin, Trading, Dense, classification, neural network
+Keywords: LLaMA, ECB, Sentiment Scoring
 
 Author: Rahul Tak
 
 Submitted:  2024-12-18 by Rahul Tak
 
 Output:
-- Returns_test.png
-- Returns_val.png
-- accuracyVSthreshold.png
-- lossVSthreshold.png
+- Results_sentiment.csv
 
 Data:
-- BTC_USDT_5m.csv
+- ECB_speech_paragraph.csv
