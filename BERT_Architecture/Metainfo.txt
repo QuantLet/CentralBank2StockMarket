@@ -1,0 +1,14 @@
+Name of Quantlet: LLM_ECB_Speech_Sentiment_Scoring
+
+Published in: Quantlet
+
+Description: 'GELU activation function'
+
+Keywords: BERT, ECB, Sentiment Scoring
+
+Author: Rahul Tak
+
+Submitted:  2025-11-18 by Rahul Tak
+
+Output:
+- GELU_activation.png
