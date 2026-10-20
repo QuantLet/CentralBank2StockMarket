@@ -18,7 +18,7 @@ Author: Rahul Tak
 Submitted: 2024-12-18 by Rahul Tak
 
 Output: 
-- Results_sentiment.csv
+- 
 
 Data: 
 - ECB_speech_paragraph.csv
